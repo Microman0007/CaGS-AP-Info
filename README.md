@@ -1,4 +1,4 @@
-# CaGS-AP : _Candida albicans_ β-1,3-Glucan Synthase — Activity Predictor
+# CaGS-AP : _Candida albicans_ β-1,3-Glucan Synthase - Activity Predictor
 
 <img width="1280" height="720" alt="App_Logo" src="App_Logo.png" />
 
